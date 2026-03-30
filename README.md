@@ -52,7 +52,7 @@ Or checkout out a Pre Release from [GitHub Releases](https://github.com/BarryCar
 
 # Configuration
 
-You can now control where a onscreen gear offseat appears via `FarmingSimulator2022\modSettings\extraGears.xml`
+You can control where a onscreen gear offseat appears via `FarmingSimulator2025/modSettings/extraGears.xml`
 
 The default is
 
@@ -98,19 +98,9 @@ Please Open a Pull Request with the new/updated `l10n/l10n_CODE.xml` file and up
 
 # Change Log
 
-## 29th November 2021 v1.0.0.0
+## 30th March 2026 v1.0.0.0
+
+> [!note]
+> Provisional date/change log
 
 - Initial release supporting extra gear binds and shifting of.
-
-## 22nd December 2021 v1.0.0.1
-
-- Fixed Multiplayer Supports
-- Added a on screen Display (bottom right) of the current gear shift value
-
-## Pre Release 1.0.0.2
-
-- Fix game to work for Game Patch 1.2
-- Added Gear Groups 5/6 as per `SentinelMantik` report
-- Revise the readme and added notes on submitting a translation
-- Added Czech translation 
-- Added Dutch translation 
